@@ -37,6 +37,12 @@ The goal of this project is to use image recognition models as the foundation fo
 No existing image set of professional cakes exists that I could find, so I decided to build my own dataset to train my models. I started with cakes from my own home business, then asked for cakes from fellow home bakers and also downloaded cake images from the internet.
 
 In the end, I collected 400 cake images with a variety of levels of complexity and skill, styles and designs, sizes and shapes.
+![cake1](./visuals/5_cakes_1.png)
+![cake2](./visuals/5_cakes_2.png)
+![cake3](./visuals/5_cakes_3.png)
+![cake4](./visuals/5_cakes_4.png)
+
+
 <a id='process'></a>
 ### Image Pre-Processing
 
